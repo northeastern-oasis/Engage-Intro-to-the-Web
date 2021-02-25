@@ -1,8 +1,6 @@
-# Intro to Web Coding: Your Food Blog!
+# Intro to Web Coding Step 2: Building Your Food Blog!
 
-**To get started, open this in Repl.it and Fork it (remember you may have to sign in to Github)**: [https://repl.it/@chessmyers/Website](https://repl.it/@chessmyers/Website)
-
-You will want three files for this site: `index.html`, `styles.css`, and `script.js`. Note that while you generally should call the home page of your site `index.html` by convention, you can call your CSS and JavaScript files whatever you want.
+To get started, create a new Repl in Repl.it and choose HTML/CSS/JavaScript.
 
 This site will have various features:
 

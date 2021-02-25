@@ -1,18 +1,10 @@
-# Oasis Spring Workshop 3: Introduction to the Web!
+# Oasis x Engage Workshop: Introduction to the Web!
 
-Welcome to the third Oasis workshop and congratulations on starting to learn about web development! Learning about the basic technologies used in this field will allow you to build your own personal projects, website, apps, etc. And it's fun!
-
-Creating websites and web apps is an extremely rewarding experience, as the software you make is easily testable and accessible by anyone on the web.
-
-In this workshop, we will start by talking about why you should learn how to develop web applications. 
-
-We will then be introducing the three "Languages of the Web"--HTML, CSS, and JavaScript--at a high level before diving into coding with them.
+Welcome to the Oasis workshop and congratulations on starting to learn about web development! Learning about the basic technologies used in this field will allow you to build your own personal projects, website, apps, etc. And it's fun!
 
 While this will be an introduction, it will set you up to continue learning and growing in these skills.
 
-**Slides:** [https://docs.google.com/presentation/d/1XB3Ci-tptTn7UReAy4NlzzV2KN-hxGTx1CdAPFzwB1E/edit?usp=sharing](https://docs.google.com/presentation/d/1XB3Ci-tptTn7UReAy4NlzzV2KN-hxGTx1CdAPFzwB1E/edit?usp=sharing)
-
-## Optional readings
+## Optional Readings
 
 * [https://www.w3schools.com/whatis/whatis_html.asp](https://www.w3schools.com/whatis/whatis_html.asp)
 * [https://www.w3schools.com/whatis/whatis_css.asp](https://www.w3schools.com/whatis/whatis_css.asp)
@@ -21,14 +13,8 @@ While this will be an introduction, it will set you up to continue learning and 
 
 ## Getting Started
 
-If you're just getting started (**recommended**):
-1. Go to the Repl.it link in each folder and click Fork
-
-
-If you want to use your own IDE (if you know how!)
-1. Clone this Github repository into a new folder on your machine (in Terminal or Command Prompt, type `git clone REPO_URL`, where REPO_URL is the clone repository found on the top of this page
-2. You're all set! Just have the cloned folder easily accessible and follow along with the workshop to start writing web code
-
+1. Go to the Repl.it link in each folder and click Fork (may need to sign in).
+2. Repl.it is an online code editor. We will be writing our code there!
 
 ## After the Workshop
 
